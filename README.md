@@ -2,7 +2,7 @@
 
 ## Contents
 
-This mod adds a new resource, wardium. It drops from the Warden and can be used to make Wardium Armor and Tools. For further Information, look into the [wiki](https://github.com/Parcival791/Wardium-1.19).
+This mod adds a new resource, wardium. It drops from the Warden and can be used to make Wardium Armor and Tools. For further Information, look into the [wiki](https://github.com/Parcival791/Wardium-1.19/wiki).
 
 ## License
 
