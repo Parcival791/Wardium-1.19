@@ -4,13 +4,13 @@
   "version": "${version}",
 
   "name": "Wardium",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "description": "This mod adds a new resource, wardium. It drops from the Warden and can be used to make Wardium Armor and Tools.",
   "authors": [
     "Parcival aka IEatYourPizzahi"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "https://github.com/Parcival791/Wardium-1.19",
+    "sources": "https://github.com/Parcival791/Wardium-1.19/wiki"
   },
 
   "license": "CC0-1.0",
