@@ -1,9 +1,9 @@
-# Fabric Example Mod
+# Wardium
 
-## Setup
+## Contents
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+This mod adds a new resource, wardium. It drops from the Warden and can be used to make Wardium Armor and Tools. For further Information, look into the [wiki](https://github.com/Parcival791/Wardium-1.19/wiki).
 
 ## License
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+This Mod is aviable under the CC0-License. Feel free to use it and incorporate it into your projects.
